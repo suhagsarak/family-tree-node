@@ -1,8 +1,9 @@
 {
-    "HOST": "localhost",
-    "USER": "root",
-    "PASSWORD": "123456",
-    "DB": "testdb",
+    "port": 8800, 
+    "host": "localhost",
+    "user": "python",
+    "password": "pythondb",
+    "db": "familytree",
     "dialect": "mysql",
     "pool": {
         "max": 5,
