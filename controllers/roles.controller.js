@@ -30,9 +30,4 @@ router.get('/delete/:id', (req, res) => {
 
 });
 
-// Delete all objects from the database
-router.get('/deleteAll', (req, res) => {
-
-});
-
 module.exports = router;

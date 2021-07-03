@@ -35,3 +35,13 @@ db.relations.belongsTo(db.roles, { foreignKey: 'individual_1_role_code' });
 db.relations.belongsTo(db.roles, { foreignKey: 'individual_2_role_code' });
 
 module.exports = db;
+
+
+
+// "first_name": "Suhag",
+// "last_name": "Sarak",
+// "gender": "M",
+// "date_of_birth": new Date(1994, 8, 13, 5, 30, 0, 1),
+// "place_of_birth": "Jath",
+// "individual_details": null,
+// "date_of_death": null
