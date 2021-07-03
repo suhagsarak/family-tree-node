@@ -1,0 +1,14 @@
+{
+    "port": 8800, 
+    "host": "localhost",
+    "user": "python",
+    "password": "pythondb",
+    "db": "familytree",
+    "dialect": "mysql",
+    "pool": {
+        "max": 5,
+        "min": 0,
+        "acquire": 30000,
+        "idle": 10000
+    }
+}
